@@ -40,43 +40,20 @@
 ```
 
 ## Problema
+Mesmo com os avanços tecnológicos, ainda existem grupos que necessitam de auxílio direcionado à locomoção urbana em seus automóveis, como odosos ou pessoas com dificuldades motoras. Um dos problemas enfrentados por esses grupos é o estacionamento do veículo (baliza), que muitas vezes é realizado de maneira incorreta, podendo acarretar em acidentes, multas e complicações na qualidade de vida geral.
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
 
 ## Objetivos
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O software visa resolver problemas diversos que sejam relacionados a locomoção urbana de automoveis se adequando a cada individuo para com a sua deficiência, aumentando a sua inserção na comunidade e ajudando-os em seu cotidiano.
 
 
 ## Justificativa
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
+O projeto se baseia na necessidade de uma considerável porcentagem da sociedade, se apoiando marjoritariamente na população idosa, mas não eliminando, os demais que possuem da mesma necessidade. Melhorando a qualidade de vida, evitando acidentes, entre outros.
 
 ## Critérios de Sucesso
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+- Aplicabilidade real;
+- Aceitação do público alvo;
+- Resultados positivos; 
 
 # Partes Interessadas
 
