@@ -91,9 +91,9 @@ O projeto se baseia na necessidade de uma considerável porcentagem da sociedade
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+|Motoristas                 |Usuários Finais                        |Alta               |Alta                     |Neutro             |               |
+|Fabricantes de automóveis                 |Produtividade e principal fornecedora                        |Alta               |Alta                     |Positivo             |               |
+|Auto Escolas                 |Possíveis clientes                        |Média               |Média                     |Positivo             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
