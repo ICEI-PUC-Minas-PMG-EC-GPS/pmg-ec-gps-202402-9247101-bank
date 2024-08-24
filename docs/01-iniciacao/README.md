@@ -68,14 +68,15 @@ O projeto se baseia na necessidade de uma considerável porcentagem da sociedade
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
+|Motoristas                 |Usuário                 |Usuário final               |             |             |
+|Fabricantes de automóveis                 |Fornecedores                 |Integradores               |             |             |
+|Auto Escolas                 |Clientes                 |Usuário               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+
 
 > Opções de identificação dos stakeholders:
 > - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
