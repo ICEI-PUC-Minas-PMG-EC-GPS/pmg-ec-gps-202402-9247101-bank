@@ -10,7 +10,7 @@
 
 * [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
 * [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
+* Thiago Marques Lopes Coelho https://github.com/ThiagoSkops
 * Wandrey Microni dos Santos https://github.com/WandreySantos
 
 ## Professor responsável
