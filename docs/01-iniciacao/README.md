@@ -33,27 +33,23 @@
   - [Ferramentas](#ferramentas)
 
 # Introdução
-
-```diff
-+ Tarefa 01:
-+ Tema do projeto e lista de Stakeholders
-```
+A aplicação de controle financeiro proposta é uma solução digital desenvolvida para auxiliar indivíduos e empresas na gestão eficaz de suas finanças. Com um conjunto robusto de funcionalidades, a aplicação visa fornecer uma visão clara e detalhada das finanças pessoais e empresariais, permitindo o acompanhamento preciso de despesas, receitas e orçamentos. Este sistema pretende apoiar a tomada de decisões financeiras informadas, através de recursos que incluem dashboards visuais, relatórios detalhados, e integração com contas bancárias e cartões de crédito.
 
 ## Problema
-Mesmo com os avanços tecnológicos, ainda existem grupos que necessitam de auxílio direcionado à locomoção urbana em seus automóveis, como odosos ou pessoas com dificuldades motoras. Um dos problemas enfrentados por esses grupos é o estacionamento do veículo (baliza), que muitas vezes é realizado de maneira incorreta, podendo acarretar em acidentes, multas e complicações na qualidade de vida geral.
-
+No contexto atual, muitos indivíduos e pequenas empresas enfrentam desafios significativos na administração de suas finanças. A falta de uma visão consolidada e a dificuldade em monitorar e categorizar despesas e receitas frequentemente resultam em planejamento financeiro inadequado e falta de controle sobre os gastos. Além disso, a ausência de ferramentas eficazes para a definição e acompanhamento de metas financeiras e para a gestão de dívidas e investimentos contribui para a ineficiência financeira e o desperdício de recursos.
 
 ## Objetivos
-O software visa resolver problemas diversos que sejam relacionados a locomoção urbana de automoveis se adequando a cada individuo para com a sua deficiência, aumentando a sua inserção na comunidade e ajudando-os em seu cotidiano.
-
+O objetivo da aplicação é facilitar o acompanhamento financeiro ao oferecer uma visão consolidada das finanças pessoais e/ou empresariais por meio de dashboards visuais, que apresentam contas, saldos, despesas e receitas de maneira clara e intuitiva.
 
 ## Justificativa
-O projeto se baseia na necessidade de uma considerável porcentagem da sociedade, se apoiando marjoritariamente na população idosa, mas não eliminando, os demais que possuem da mesma necessidade. Melhorando a qualidade de vida, evitando acidentes, entre outros.
+A implementação de uma aplicação de controle financeiro é justificada pela necessidade crescente de soluções que oferecem maior transparência e controle sobre as finanças.
 
 ## Critérios de Sucesso
-- Aplicabilidade real;
-- Aceitação do público alvo;
-- Resultados positivos; 
+- Aplicabilidade real: a solução deve demonstrar eficácia na gestão financeira real, ajudando usuários a monitorar e controlar suas finanças com precisão. Isso será medido pela adoção contínua da aplicação e pela capacidade de resolver problemas financeiros específicos enfrentados pelos usuários.
+
+- Aceitação do público alvo: será avaliada através de feedback positivo dos usuários, incluindo indivíduos, pequenas empresas e consultores financeiros. O sucesso será indicado pelo nível de satisfação do usuário, a frequência de uso da aplicação e a adoção generalizada no mercado-alvo.
+  
+- Resultados positivos:  incluirão melhorias mensuráveis na gestão financeira dos usuários, como redução de despesas desnecessárias, melhor planejamento orçamentário e atingimento de metas financeiras.
 
 # Partes Interessadas
 
@@ -68,10 +64,10 @@ O projeto se baseia na necessidade de uma considerável porcentagem da sociedade
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|Motoristas                 |Usuário                 |Usuário final               |             |             |
-|Fabricantes de automóveis                 |Fornecedores                 |Integradores               |             |             |
-|Auto Escolas                 |Clientes                 |Usuário               |             |             |
-|                 |                 |               |             |             |
+|Clientes Individuais e Famílias  |Usuários da Aplicação                 |Usuários principais que determinarão a aceitação da aplicação             |            |             |
+|Pequenos Empreendedores e Freelancers             |Usuários da aplicação                  |Utilizadores que influenciam a adoção e feedback sobre a aplicação              |             |             |
+|Gestores/Consultores Financeiros                 |Profissionais financeiros              |Usuários que podem recomendar e validar a aplicação no mercado empresarial             |             |             |
+|Desenvolvedores e Fornecedores de Serviços                 |Equipe de desenvolvimento e suporte                 |Responsáveis pelo desenvolvimento, manutenção e atualização da aplicação               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
@@ -91,10 +87,10 @@ O projeto se baseia na necessidade de uma considerável porcentagem da sociedade
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|Motoristas                 |Usuários Finais                        |Alta               |Alta                     |Neutro             |               |
-|Fabricantes de automóveis                 |Produtividade e principal fornecedora                        |Alta               |Alta                     |Positivo             |               |
-|Auto Escolas                 |Possíveis clientes                        |Média               |Média                     |Positivo             |               |
-|                 |                        |               |                     |             |               |
+|Clientes Individuais e Famílias                |Facilidade de uso, segurança dos dados, funcionalidades de orçamento e planejamento                      |Baixa               |Alta                     |Neutro             |               |
+|Empreendedores/Freelancers                 |Integração com contas bancárias, relatórios detalhados, gestão de receitas e despesas                        |Baixa               |Alta                     |Positivo             |               |
+|Gestores/Consultores Financeiros                 |Ferramentas para orçamento e fluxo de caixa, relatórios avançados                       |Alta               |Média                     |Positivo             |               |
+|Desenvolvedores e Fornecedores de Serviços           |Comunicação clara sobre requisitos, cronograma realista, manutenção eficiente                        |Alta               |Alta                     |Positivo             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
