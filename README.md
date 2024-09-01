@@ -21,16 +21,16 @@ A justificativa para o projeto reside na crescente demanda por soluções que si
 
 Dentre os recursos e funcionalidades do projeto estão:
 
->Dashboard Financeiro: Visualização consolidada de contas, saldos, despesas, receitas e gráficos de fluxo de caixa.
->Gestão de Despesas e Receitas: Registro manual e automático, categorização de transações.
->Orçamento e Planejamento Financeiro: Definição de orçamentos mensais e acompanhamento com alertas.
->Relatórios Financeiros: Relatórios detalhados, filtragem e exportação em PDF e Excel.
->Integração com Bancos e Cartões: Importação automática de transações.
->Metas de Poupança e Investimento: Definição e acompanhamento de metas financeiras.
->Alertas e Notificações: Lembretes de contas a pagar e alertas de limites orçamentários.
->Controle de Dívidas e Empréstimos: Acompanhamento de dívidas, simulações de amortização.
->Análise de Fluxo de Caixa: Previsões e identificação de períodos com déficit ou superávit.
->Segurança e Privacidade: Autenticação multifator e criptografia de dados.
+> Dashboard Financeiro: Visualização consolidada de contas, saldos, despesas, receitas e gráficos de fluxo de caixa.
+> Gestão de Despesas e Receitas: Registro manual e automático, categorização de transações.
+> Orçamento e Planejamento Financeiro: Definição de orçamentos mensais e acompanhamento com alertas.
+> Relatórios Financeiros: Relatórios detalhados, filtragem e exportação em PDF e Excel.
+> Integração com Bancos e Cartões: Importação automática de transações.
+> Metas de Poupança e Investimento: Definição e acompanhamento de metas financeiras.
+> Alertas e Notificações: Lembretes de contas a pagar e alertas de limites orçamentários.
+> Controle de Dívidas e Empréstimos: Acompanhamento de dívidas, simulações de amortização.
+> Análise de Fluxo de Caixa: Previsões e identificação de períodos com déficit ou superávit.
+> Segurança e Privacidade: Autenticação multifator e criptografia de dados.
 
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
