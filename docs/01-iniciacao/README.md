@@ -165,7 +165,7 @@ Esta tabela fornece uma visão geral dos custos estimados associados ao desenvol
 
 * Prazo previsto (em horas): 6380 horas
 * Data de início: 05 / 09 / 24
-* Data de término: 05 / 02 / 25
+* Data de término: 05 / 03 / 25
 
 ## Escopo Preliminar e Premissas
 
@@ -236,9 +236,11 @@ A tabela a seguir apresenta as restrições do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RE-001| A aplicação deve atender às leis de proteção de dados como LGPD e GDPR. | ALTA | 
+|RE-002| O projeto deve ser concluído em até 6 meses. | ALTA |
+|RE-003| Permitir que o usuário forneça seus dados e estabeleça rotinas de compras | ALTA | 
+|RE-004| O projeto deve usar tecnologias e frameworks previamente definidos (ex.: JavaScript, React).  | MÉDIA|
+|RE-005| A equipe é composta por um número fixo de profissionais, sem aumento previsto. | ALTA | 
 
 ### Contra-Escopo
 
@@ -248,8 +250,12 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
+|CE-001| Integração com Todos os Bancos Internacionais |
+|CE-002| Suporte a Dispositivos IoT |
+|CE-003| Versão para Desktop Nativa |
+|CE-004| Suporte Multilíngue Completo |
+|CE-005| Funcionalidades de Balanço Patrimonial |
+
 
 ### Condições para início do Projeto
 
@@ -259,8 +265,11 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 |ID    | Descrição de Condições para Início do Projeto    | 
 |------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+|CI-001| Definição do Orçamento Aprovado |
+|CI-002| Formação Completa da Equipe |
+|CI-003| Requisitos de Projeto Claros |
+|CI-004| Infraestrutura Tecnológica |
+|CI-005| Assinatura do Contrato |
 
 ## Marcos Agendados e Entregas
 
@@ -270,12 +279,12 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|M-1  | Início do Desenvolvimento |
+|M-2  | Entrega do MVP (Produto Mínimo Viável) |
+|M-3  | Integração com Bancos |
+|M-4  | Lançamento Beta |
+|M-5  | Entrega Final |
+
 
 ```diff
 + Tarefa 02
