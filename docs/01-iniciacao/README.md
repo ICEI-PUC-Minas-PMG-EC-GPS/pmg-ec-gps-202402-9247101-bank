@@ -129,7 +129,7 @@ A implementação de uma aplicação de controle financeiro é justificada pela 
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Esta tabela fornece uma visão geral dos custos estimados associados ao desenvolvimento da aplicação:
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
@@ -141,13 +141,13 @@ A implementação de uma aplicação de controle financeiro é justificada pela 
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos        |Desenvolvimento e design da aplicação; análise de requisitos e testes           | 800           | R$ 150            | R$ 120.000            |
+| Hardware                |Servidores e equipamentos de desenvolvimento           | 1           |R$ 5.000              | R$ 5.000            |
+| Serviços de Rede        |Configuração e manutenção de rede para testes e desenvolvimento           |40            |R$ 200              | R$ 8.000            |
+| Hospedagem e Nuvem      |Custos de servidores na nuvem e armazenamento           |6380(Plano Semestral)           | R$ 1,64             | R$ 10.500            |
+| Software de terceiros   |Licenças e ferramentas de desenvolvimento (IDE, bibliotecas, etc.)           |  1          |   R$ 10.000           | R$ 10.000            |
+| Serviços e treinamento  |Treinamento da equipe e suporte técnico adicional           | 20           |R$ 250              | R$ 5.000            |
+| **Total Geral**         |   N/A        |7242            |R$20.351,64              | R$158.500            |
 
 
 ## Estimativa de Prazo
@@ -163,9 +163,9 @@ A implementação de uma aplicação de controle financeiro é justificada pela 
 > * Data de início
 > * Data de término
 
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 6380 horas
+* Data de início: 05 / 09 / 24
+* Data de término: 05 / 02 / 25
 
 ## Escopo Preliminar e Premissas
 
@@ -207,8 +207,11 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Dashboard Financeiro | ALTA | 
+|RF-002| Gestão de Despesas e Receitas  | MÉDIA |
+|RF-003| Integração com Bancos e Cartões | ALTA | 
+|RF-004| Orçamento e Planejamento Financeiro  | MÉDIA |
+|RF-005| Relatórios Financeiros | ALTA | 
 
 ### Requisitos Não Funcionais
 
@@ -218,8 +221,11 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-001| A aplicação deve implementar autenticação multifator e criptografia de dados | MÉDIA     | 
+|RNF-002| A aplicação deve garantir tempos de resposta rápidos para todas as operações principais, como a importação de transações e a geração de relatórios.            | BAIXA     | 
+|RNF-003| A aplicação deve ser projetada para suportar um aumento no número de usuários e transações sem comprometer o desempenho.| MÉDIA     | 
+|RNF-004| A aplicação deve ser compatível com diferentes sistemas operacionais e dispositivos, incluindo Windows, macOS, iOS e Android. | BAIXA     | 
+|RNF-005| A aplicação deve ter uma interface intuitiva e amigável, com design responsivo que permita fácil navegação e acessibilidade para todos os perfis de usuários, incluindo aqueles com deficiência.| MÉDIA     | 
 
 
 ### Restrições
