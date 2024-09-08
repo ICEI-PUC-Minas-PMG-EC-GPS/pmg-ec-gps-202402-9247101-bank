@@ -318,12 +318,21 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
+O projeto será desenvolvido em sprints (ciclos de desenvolvimento) de 2 semanas, com entregas incrementais ao final de cada sprint. Cada ciclo deve resultar em uma funcionalidade testada e pronta para uso.
+Além das seguintes Cerimônias Scrum Aplicadas:
+- Sprint Planning
+- Daily Scrum
+- Sprint Review
+- Sprint Retrospective
+
+O Trello(GitHub) será utilizado para gerenciar as tarefas e garantir visibilidade do progresso. Para isso, as funcionalidades do sistema serão organizadas em quadros e cartões no Trello, refletindo o fluxo de trabalho do Scrum. Cada cartão no Trello representa uma user story ou tarefa do backlog. Esses cartões contêm descrições detalhadas, critérios de aceitação e anotações adicionais para o time.
+Além do Trello, ferramentas como Slack ou Microsoft Teams podem ser utilizadas para facilitar a comunicação entre o time, e o Jira (integrado com o Trello) pode ser utilizado para um controle mais robusto de backlog e monitoramento do progresso.
+
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+Wandrey Santos - Product Owner (PO): Representa os interesses dos stakeholders e dos clientes, garantindo que o time esteja trabalhando nas funcionalidades de maior valor. Ele prioriza o backlog do produto.
+Gabriel Souza - Scrum Master: Facilita o processo Scrum, garantindo que as práticas ágeis sejam seguidas, removendo impedimentos e ajudando o time a melhorar continuamente.
+Thiago Marques e Gabriel de Moura - Time de Desenvolvimento: Equipe multifuncional responsável por transformar os itens do backlog em incrementos de produto. Geralmente, é autogerenciada e composta por desenvolvedores, designers, testadores, etc.
 
 ## Ferramentas
 
