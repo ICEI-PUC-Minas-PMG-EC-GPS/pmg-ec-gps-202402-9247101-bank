@@ -208,10 +208,15 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
 |RF-001| Dashboard Financeiro | ALTA | 
-|RF-002| Gestão de Despesas e Receitas  | MÉDIA |
+|RF-002| Gestão de Despesas  | MÉDIA |
 |RF-003| Integração com Bancos e Cartões | ALTA | 
-|RF-004| Orçamento e Planejamento Financeiro  | MÉDIA |
-|RF-005| Relatórios Financeiros | ALTA | 
+|RF-004| Orçamento | MÉDIA |
+|RF-005| Relatórios Financeiros | ALTA |
+|RF-006| Gestão de Receitas |MÉDIA|
+|RF-007| Planejamento Financeiro |MÉDIA|
+|RF-008| Tipagem de movimentação |MÉDIA|
+|RF-009| Metas Financeiras |MÉDIA|
+|RF-010| Segurança e Privacidade |ALTA|
 
 ### Requisitos Não Funcionais
 
@@ -225,7 +230,7 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |RNF-002| A aplicação deve garantir tempos de resposta rápidos para todas as operações principais, como a importação de transações e a geração de relatórios.            | BAIXA     | 
 |RNF-003| A aplicação deve ser projetada para suportar um aumento no número de usuários e transações sem comprometer o desempenho.| MÉDIA     | 
 |RNF-004| A aplicação deve ser compatível com diferentes sistemas operacionais e dispositivos, incluindo Windows, macOS, iOS e Android. | BAIXA     | 
-|RNF-005| A aplicação deve ter uma interface intuitiva e amigável, com design responsivo que permita fácil navegação e acessibilidade para todos os perfis de usuários, incluindo aqueles com deficiência.| MÉDIA     | 
+|RNF-005| A aplicação deve ter uma interface intuitiva e amigável, com design responsivo que permita fácil navegação e acessibilidade para todos os perfis de usuários, incluindo aqueles com deficiência.| MÉDIA      
 
 
 ### Restrições
