@@ -330,9 +330,11 @@ Além do Trello, ferramentas como Slack ou Microsoft Teams podem ser utilizadas 
 
 ## Divisão de Papéis
 
-Wandrey Santos - Product Owner (PO): Representa os interesses dos stakeholders e dos clientes, garantindo que o time esteja trabalhando nas funcionalidades de maior valor. Ele prioriza o backlog do produto.
-Gabriel Souza - Scrum Master: Facilita o processo Scrum, garantindo que as práticas ágeis sejam seguidas, removendo impedimentos e ajudando o time a melhorar continuamente.
-Thiago Marques e Gabriel de Moura - Time de Desenvolvimento: Equipe multifuncional responsável por transformar os itens do backlog em incrementos de produto. Geralmente, é autogerenciada e composta por desenvolvedores, designers, testadores, etc.
+- Wandrey Santos - Product Owner (PO): Representa os interesses dos stakeholders e dos clientes, garantindo que o time esteja trabalhando nas funcionalidades de maior valor. Ele prioriza o backlog do produto.
+
+- Gabriel Souza - Scrum Master: Facilita o processo Scrum, garantindo que as práticas ágeis sejam seguidas, removendo impedimentos e ajudando o time a melhorar continuamente.
+
+- Thiago Marques e Gabriel de Moura - Time de Desenvolvimento: Equipe multifuncional responsável por transformar os itens do backlog em incrementos de produto. Geralmente, é autogerenciada e composta por desenvolvedores, designers, testadores, etc.
 
 ## Ferramentas
 
