@@ -36,16 +36,27 @@
 > Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
 > Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
 
-- Requisitos: RF-001	Dashboard Financeiro	ALTA
-              RF-002	Gestão de Despesas	MÉDIA
-              RF-003	Integração com Bancos e Cartões	ALTA
-              RF-004	Orçamento	MÉDIA
-              RF-005	Relatórios Financeiros	ALTA
-              RF-006	Gestão de Receitas	MÉDIA
-              RF-007	Planejamento Financeiro	MÉDIA
-              RF-008	Tipagem de movimentação	MÉDIA
-              RF-009	Metas Financeiras	MÉDIA
-              RF-010	Segurança e Privacidade	ALTA
+- Requisitos:
+
+RF-001	Dashboard Financeiro	ALTA
+
+RF-002	Gestão de Despesas	MÉDIA
+
+RF-003	Integração com Bancos e Cartões	ALTA
+              
+RF-004	Orçamento	MÉDIA
+
+RF-005	Relatórios Financeiros	ALTA
+              
+RF-006	Gestão de Receitas	MÉDIA
+              
+RF-007	Planejamento Financeiro	MÉDIA
+              
+RF-008	Tipagem de movimentação	MÉDIA
+              
+RF-009	Metas Financeiras	MÉDIA
+        
+RF-010	Segurança e Privacidade	ALTA
 
 - Premissa:
 
@@ -63,11 +74,17 @@
 
 
 
-- Restrição: RE-001	A aplicação deve atender às leis de proteção de dados como LGPD e GDPR.	ALTA
-             RE-002	O projeto deve ser concluído em até 6 meses.	ALTA
-             RE-003	Permitir que o usuário forneça seus dados e estabeleça rotinas de compras	ALTA
-             RE-004	O projeto deve usar tecnologias e frameworks previamente definidos (ex.: JavaScript, React).	MÉDIA
-             RE-005	A equipe é composta por um número fixo de profissionais, sem aumento previsto.	ALTARE-001	A aplicação deve atender às leis de proteção de dados como LGPD e GDPR.	ALTA
+- Restrição:
+
+RE-001	A aplicação deve atender às leis de proteção de dados como LGPD e GDPR.	ALTA
+  
+RE-002	O projeto deve ser concluído em até 6 meses.	ALTA
+  
+RE-003	Permitir que o usuário forneça seus dados e estabeleça rotinas de compras	ALTA
+
+RE-004	O projeto deve usar tecnologias e frameworks previamente definidos (ex.: JavaScript, React).	MÉDIA
+ 
+RE-005	A equipe é composta por um número fixo de profissionais, sem aumento previsto.	ALTARE-001	A aplicação deve atender às leis de proteção de dados como LGPD e GDPR.	ALTA
 
 
 
