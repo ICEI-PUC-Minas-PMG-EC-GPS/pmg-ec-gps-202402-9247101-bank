@@ -36,6 +36,41 @@
 > Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
 > Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
 
+- Requisitos: RF-001	Dashboard Financeiro	ALTA
+              RF-002	Gestão de Despesas	MÉDIA
+              RF-003	Integração com Bancos e Cartões	ALTA
+              RF-004	Orçamento	MÉDIA
+              RF-005	Relatórios Financeiros	ALTA
+              RF-006	Gestão de Receitas	MÉDIA
+              RF-007	Planejamento Financeiro	MÉDIA
+              RF-008	Tipagem de movimentação	MÉDIA
+              RF-009	Metas Financeiras	MÉDIA
+              RF-010	Segurança e Privacidade	ALTA
+
+- Premissa:
+
+- Organização e Planejamento: O sistema deve permitir que os usuários organizem suas finanças pessoais ou empresariais, categorizando receitas e despesas, e facilitando o planejamento financeiro.
+
+- Facilidade de Uso: A interface do usuário precisa ser intuitiva, permitindo a inserção de dados e a geração de relatórios de maneira simples, sem exigir conhecimento técnico avançado.
+
+- Segurança de Dados: A proteção das informações financeiras deve ser uma prioridade, implementando criptografia e autenticação para garantir a privacidade e segurança dos usuários.
+
+- Integração com Bancos: O sistema pode ser projetado para se integrar com plataformas bancárias, automatizando o recebimento de dados sobre transações, o que agiliza a atualização do controle financeiro.
+
+- Alertas e Notificações: Deve contar com recursos que alertem o usuário sobre vencimentos de contas, saldos baixos ou metas financeiras, ajudando no cumprimento de objetivos.
+
+- Escalabilidade e Personalização: O sistema deve ser escalável, permitindo que tanto pessoas físicas quanto empresas de diferentes portes possam adaptar o sistema às suas necessidades financeiras.
+
+
+
+- Restrição: RE-001	A aplicação deve atender às leis de proteção de dados como LGPD e GDPR.	ALTA
+             RE-002	O projeto deve ser concluído em até 6 meses.	ALTA
+             RE-003	Permitir que o usuário forneça seus dados e estabeleça rotinas de compras	ALTA
+             RE-004	O projeto deve usar tecnologias e frameworks previamente definidos (ex.: JavaScript, React).	MÉDIA
+             RE-005	A equipe é composta por um número fixo de profissionais, sem aumento previsto.	ALTARE-001	A aplicação deve atender às leis de proteção de dados como LGPD e GDPR.	ALTA
+
+
+
 # Estrutura Analítica do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
