@@ -98,9 +98,7 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 > A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
 > Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
-
-![Estrutura Analítica do Projeto](images/exemplo_wbs.png)
+![ybanks](https://github.com/user-attachments/assets/7b00445e-11b3-437d-b744-04a6bb073760)
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
