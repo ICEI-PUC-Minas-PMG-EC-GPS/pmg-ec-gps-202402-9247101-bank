@@ -108,7 +108,7 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Estrutura Analítica do Projeto - Editável](artefatos/estrutura_analitica_projeto.wbs)
+- [Estrutura Analítica do Projeto - Editável](https://drive.google.com/file/d/1D1Dm2rl1wVHvY4SLJ4Tm54V2QVrFXrFZ/view?usp=sharing)
 
 ```diff
 + Tarefa 04:
