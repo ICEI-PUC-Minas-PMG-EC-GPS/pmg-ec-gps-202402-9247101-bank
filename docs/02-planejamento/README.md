@@ -90,41 +90,41 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 
 # Estrutura Analítica do Projeto
 
-- 1. Planejamento
-  - 1.1. Definição de Escopo
-  - 1.2. Identificação das Partes Interessadas
-  - 1.3. Estimativa de Custos
-  - 1.4. Estimativa de Prazo
-  - 1.5. Declaração de Escopo
-  - 1.6. Metodologia do Projeto
+- Planejamento
+  - Definição de Escopo
+  - Identificação das Partes Interessadas
+  - Estimativa de Custos
+  - Estimativa de Prazo
+  - Declaração de Escopo
+  - Metodologia do Projeto
 
-- 2. Conceituação
-  - 2.1. Conhecimento do Público
-  - 2.2. Requisitos Funcionais
-  - 2.3. Requisitos Não Funcionais
-  - 2.4. Restrições
+- Conceituação
+  - Conhecimento do Público
+  - Requisitos Funcionais
+  - Requisitos Não Funcionais
+  - Restrições
 
-- 3. Estrutura Informacional e Visual
-  - 3.1. Arquitetura da Informação
-  - 3.2. Layout e Interface
+- Estrutura Informacional e Visual
+  - Arquitetura da Informação
+  - Layout e Interface
 
-- 4. Produção
-  - 4.1. Desenvolvimento
-  - 4.2. Preparação e Edição de Conteúdo
-  - 4.3. Integração com Sistemas de Terceiros
-  - 4.4. Infraestrutura Tecnológica
-  - 4.5. Testes
+- Produção
+  - Desenvolvimento
+  - Preparação e Edição de Conteúdo
+  - Integração com Sistemas de Terceiros
+  - Infraestrutura Tecnológica
+  - Testes
 
-- 5. Lançamento
-  - 5.1. Preparação das Equipes de Atualização
-  - 5.2. Divulgação
-  - 5.3. Especificações de Produto
-  - 5.4. Avaliação do Produto
+- Lançamento
+  - Preparação das Equipes de Atualização
+  - Divulgação
+  - Especificações de Produto
+  - Avaliação do Produto
 
-- 6. Gestão de Projeto
-  - 6.1. Gestão de Equipes
-  - 6.2. Comunicação com Stakeholders
-  - 6.3. Revisão de Metodologia e Processos
+- Gestão de Projeto
+  - Gestão de Equipes
+  - Comunicação com Stakeholders
+  - Revisão de Metodologia e Processos
 
 ![ybanks](https://github.com/user-attachments/assets/7b00445e-11b3-437d-b744-04a6bb073760)
 
