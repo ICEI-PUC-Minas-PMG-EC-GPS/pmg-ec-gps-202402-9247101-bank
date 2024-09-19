@@ -168,7 +168,7 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
-![Matriz RACI](images/raci.png)
+![Matriz RACI]([Planilha sem título.xlsx](https://github.com/user-attachments/files/17067739/Planilha.sem.titulo.xlsx))
 
 
 ### Documento Editável
