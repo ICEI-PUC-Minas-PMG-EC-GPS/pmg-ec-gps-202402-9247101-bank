@@ -1,4 +1,4 @@
-# Planejamento
+![image](https://github.com/user-attachments/assets/69431d19-6865-4c27-b48c-87f4acfc9386)# Planejamento
 
 > A fase de planejamento na gerência de projetos é um momento onde os detalhes do projeto são minuciosamente definidos para garantir uma execução bem-sucedida. 
 > Durante essa etapa, os gerentes de projeto e suas equipes elaboram um plano abrangente que aborda aspectos como cronograma, orçamento, recursos necessários, riscos identificados e métodos de controle. 
@@ -151,24 +151,17 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
-> Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
-> Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
-> Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
-
 > Informações Adicionais:
 > * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
 > * **A**ccountable -> Responsável (pessoa responsável por aprovar a atividade)
 > * **C**onsulted   -> Consultado (especialista consultado sobre a atividade ou parte dela)
 > * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
-> 
-> Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
 
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
+![image](https://github.com/user-attachments/assets/2f292999-d783-4e13-8d40-ee7e3e7df2d7)
+![image](https://github.com/user-attachments/assets/2c78c917-beef-47bd-9b19-5fa502b836ea)
 
-![Matriz RACI]([Planilha sem título.xlsx](https://github.com/user-attachments/files/17067739/Planilha.sem.titulo.xlsx))
+
+!([Matriz_de_Responsabilidade.xlsx](https://github.com/user-attachments/files/17067739/Planilha.sem.titulo.xlsx))
 
 
 ### Documento Editável
