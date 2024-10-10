@@ -336,6 +336,9 @@ Além do Trello, ferramentas como Slack ou Microsoft Teams podem ser utilizadas 
 
 - Thiago Marques e Gabriel de Moura - Time de Desenvolvimento: Equipe multifuncional responsável por transformar os itens do backlog em incrementos de produto. Geralmente, é autogerenciada e composta por desenvolvedores, designers, testadores, etc.
 
+- Emanuelle - QA(Analista de Qualidade): Seguira com os testes de cada integração realizada pelo time de desenvolvimento.
+
+
 ## Ferramentas
 
 ......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
