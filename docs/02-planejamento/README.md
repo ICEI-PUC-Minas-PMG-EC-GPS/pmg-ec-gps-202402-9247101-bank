@@ -220,6 +220,13 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Orçamento do Projeto:
 - [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
 
+![image](https://github.com/user-attachments/assets/b1037c10-0ac2-4a9c-bf78-cb67dfab1ec1)
+
+
+![image](https://github.com/user-attachments/assets/79130e1c-b283-4dc8-9d5f-38bc33bef5a3)
+
+
+
 ```diff
 + Tarefa 08:
 + Fim da seção a ser atualizada.
