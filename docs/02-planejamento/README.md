@@ -357,7 +357,7 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 
 ## Plano de Comunicação
 
-...... DESCREVA SUCINTAMENTE O PLANO DE COMUNICAÇÃO UTILIZADO NO PROJETO ......
+...... O plano de comunicação do projeto "yBank" foca em garantir que todas as partes interessadas recebam informações de maneira clara e no tempo certo. Ele inclui reuniões semanais com a equipe de desenvolvimento para acompanhar o progresso, pontos de controle mensais com stakeholders para discutir resultados financeiros e andamento do projeto, e atualizações via e-mail para clientes e fornecedores sobre marcos importantes. ......
 
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
@@ -401,18 +401,17 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 > Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
+- - [Ferramenta 01](https://trello.com)
+  - [Ferramenta 02](https://slack.com)
+  - [Ferramenta 03](https://workspace.google.com)
 - Papéis:
-- - ...
-  - ...
-  - ...
+- - Gerente de Projeto, responsável pela coordenação geral do projeto, garantindo o cumprimento dos prazos e a comunicação efetiva entre todos os membros da equipe e stakeholders
+  - Gerente de TI, responsável pelo desenvolvimento e integração dos dashboards e pela garantia de que as ferramentas tecnológicas sejam implementadas corretamente e funcionem como esperado no projeto.
+  - Gerente de Qualidade, responsável pela implementação e monitoramento dos planos de qualidade, incluindo os relatórios de aderência ao processo e checklists de inspeção.
 - Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+- - Todos os documentos, relatórios e comunicações serão redigidos de maneira clara e objetiva, com a linguagem acessível ao público-alvo, evitando ambiguidades e mal-entendidos.
+  - A comunicação será direta e focada nos pontos essenciais, sem sobrecarregar os destinatários com informações irrelevantes.
+  - Todas as interações no projeto serão conduzidas de forma imparcial, sem favorecimento de qualquer parte, e sempre mantendo um tom cordial, respeitoso e profissional.
 
 ```diff
 + Tarefa 11:
