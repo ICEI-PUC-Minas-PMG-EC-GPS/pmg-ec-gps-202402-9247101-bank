@@ -357,7 +357,7 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 
 ## Plano de Comunicação
 
-...... O plano de comunicação do projeto "yBank" foca em garantir que todas as partes interessadas recebam informações de maneira clara e no tempo certo. Ele inclui reuniões semanais com a equipe de desenvolvimento para acompanhar o progresso, pontos de controle mensais com stakeholders para discutir resultados financeiros e andamento do projeto, e atualizações via e-mail para clientes e fornecedores sobre marcos importantes. ......
+...... O plano de comunicação do projeto yBank foca em garantir que todas as partes interessadas recebam informações de maneira clara e no tempo certo. Ele inclui reuniões semanais com a equipe de desenvolvimento para acompanhar o progresso, pontos de controle mensais com stakeholders para discutir resultados financeiros e andamento do projeto, e atualizações via e-mail para clientes e fornecedores sobre marcos importantes. ......
 
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
@@ -370,20 +370,20 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 
 | Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
 |------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
+| Ata de reunião                     |Equipe do projeto, Stakeholders	|E-mail, Reuniões presenciais	| Após cada reunião	|Gerente de Projeto|
+| Declaração de escopo               |Stakeholders, Equipe Técnica|Documento formal, Reuniões	|Inicial, quando houver alterações	|Gerente de Projeto|
+| WBS                                |Equipe do projeto	|Documento formal, Reuniões	|Inicial, atualizações	|Gerente de Projeto|
+| Dicionário da WBS                  |Equipe Técnica, Stakeholders	|Documento formal, Reuniões	|Quando houver alterações	|Gerente de Projeto|
+| Cronograma                         |Equipe do projeto, Stakeholders	|Software de gestão de projetos, E-mail	|Semanal, ou conforme necessidade	|Gerente de Projeto|
+| Lista de Riscos                    |Equipe do projeto, Stakeholders	|Documento formal, E-mail	|Mensal ou quando houver novos riscos	|Gerente de Riscos|
+| Plano de qualidade                 |Equipe do projeto, Stakeholders	|Documento formal, Reuniões	|Inicial, conforme mudanças	|Gerente de Qualidade|
+| Plano de projeto                   |Todos os stakeholders	|Documento formal, E-mail	|Inicial, quando houver alterações	|Gerente de Projeto|
+| Relatório de Progresso             |Stakeholders, Gerente de Projeto	|E-mail, Reuniões	|Quinzenal	|Gerente de Projeto|
+| Relatório de Aderência ao Processo |Equipe de Qualidade, Stakeholders	|E-mail, Relatório formal	|Mensal	|Gerente de Qualidade|
+| Checklists de Inspeção             |Equipe de Qualidade, Stakeholders	|Documento formal, Reuniões	|Conforme etapas de inspeção	|Gerente de Qualidade|
+| Relatório Financeiro|Executivos, Stakeholders	|Documento formal, E-mail	|Mensal|Gerente Financeiro|
+| Dashboard de Indicadores de Performance|Equipe do projeto, Stakeholders|Plataforma online, Reuniões	|Semanal ou conforme necessidade	|Gerente de TI|
+| Relatório de Avaliação de Riscos|Stakeholders, Gerente de Projeto|E-mail, Documento formal|Mensal ou conforme necessário|Gerente de Riscos|
 
 > Legenda:
 > - Público: a quem se destina a comunicação.
@@ -408,6 +408,8 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 - - Gerente de Projeto, responsável pela coordenação geral do projeto, garantindo o cumprimento dos prazos e a comunicação efetiva entre todos os membros da equipe e stakeholders
   - Gerente de TI, responsável pelo desenvolvimento e integração dos dashboards e pela garantia de que as ferramentas tecnológicas sejam implementadas corretamente e funcionem como esperado no projeto.
   - Gerente de Qualidade, responsável pela implementação e monitoramento dos planos de qualidade, incluindo os relatórios de aderência ao processo e checklists de inspeção.
+  - Gerente Financeiro, responsável pelo controle e monitoramento das finanças do projeto, garantindo que os recursos sejam alocados de maneira eficiente e que o orçamento seja seguido.
+  - Gerente de Riscos, responsável por identificar, avaliar, monitorar e mitigar os riscos que podem impactar o andamento do projeto. 
 - Princípios gerais
 - - Todos os documentos, relatórios e comunicações serão redigidos de maneira clara e objetiva, com a linguagem acessível ao público-alvo, evitando ambiguidades e mal-entendidos.
   - A comunicação será direta e focada nos pontos essenciais, sem sobrecarregar os destinatários com informações irrelevantes.
