@@ -278,49 +278,44 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 
 | Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+|  Notebook  |  Manual  |  16/10/2024  |  Thiago  |  Quantidade de defeitos físicos e de desempenho  |  20/10/2024  |  Troca dos dispositivos  |  Thiago |  Thiago  |
+|  Lógica de programação  |  Automática e manual  |  16/10/2024  |  Gabriel Sousa  |  Clean code e coerência  |  20/10/2024  |  Refatoração do código  |  Gabriel Sousa  |  Gabriel Sousa  |
+|  Funções  |  Automática  |  16/10/2024  |  Gabriel Sousa  |  Qtd de bugs e erros |  22/10/2024  |  Refazer a função  |  Gabriel Sousa  |  Gabriel Sousa  |
+|  Servidores  |  Automática e manual  |  16/10/2024  | Gabriel Monteiro |  Desempenho e Armazenamento  |  20/10/2024  |  Ajustar confirgurações ou trocar provedor  |  Gabriel Monteiro  |  Gabriel Monteiro  |
+|  Cybersegurança  |  Automática e manual  |  16/10/2024  |  Wandrey  |  Qtd falhas de abertura  |  20/10/2024  |  Implementação de novas funções de segurança  |  Wandrey  |  Wandrey  |
 
 ### Padrões e Normas Utilizadas
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+|  ISO 9001	| Garante qualidade em processos de gestão, aplicável à análise dos requisitos e desenvolvimento. |
+|ISO/IEC 25010|Avalia a qualidade do software, focando em segurança e conformidade.|
+|CMMI|Fornece um modelo para otimizar o desenvolvimento e monitorar a qualidade dos artefatos do projeto.|
 
 ### Ambiente das Atividades de Qualidade
 
 | Ambiente   | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+|Ambiente de Testes	|Ambiente para verificação dos notebooks, funcionalidades e desempenho do sistema.|
+|Ambiente de Desenvolvimento|Utilizado para programação e testes unitários de código e funções.|
+|Ambiente de Validação|Testes finais de otimização e desempenho de componentes integrados.|
 
 ### Equipe de Qualidade
 
 | Nome       | Responsabilidade | 
 |------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
+|Thiago|Validação de notebooks e gestão das revisões dos artefatos de hardware.|
+|Gabriel Sousa|Revisão da lição de programação e validação das funções.|
+|Gabriel Monteiro|Testes em otimização de software e avaliação do desempenho dos servidores.|
+|Wandrey|Testes relacionados à segurança da aplicação.|
 
 ### Metodologias de Qualidade Utilizadas
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+|Teste Funcional|Verifica o comportamento das lições de programação, funções e serviços em relação às especificações.|
+|Teste de Desempenho|Avalia a eficiência dos notebooks e servidores em execução sob carga.|
+|Teste Automatizado|Utilizado para garantir que as otimizações e intervenções sejam verificadas repetidamente sem falhas.|
 
 ```diff
 + Tarefa 09:
