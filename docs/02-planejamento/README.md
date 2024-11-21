@@ -330,7 +330,7 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 ## Plano de Aquisição
 
 
-[aquisicao_produtos.pdf](https://github.com/user-attachments/files/17853329/aquisicao_produtos.pdf)
+[Aquisição de Produtos](https://github.com/user-attachments/files/17853329/aquisicao_produtos.pdf)
 
 ```diff
 + Tarefa 10:
