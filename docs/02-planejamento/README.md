@@ -426,21 +426,11 @@ RE-005	A equipe é composta por um número fixo de profissionais, sem aumento pr
 > Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
 > Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
 >
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
-| Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
-|---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
+[Lista de Riscos.xls](https://github.com/user-attachments/files/17952634/Lista.de.Riscos.xls)
+
+
+
 
 > Indique:
 > Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
