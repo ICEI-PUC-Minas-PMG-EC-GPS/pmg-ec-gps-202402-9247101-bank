@@ -34,14 +34,18 @@
 
 Importância de um Planejamento Ágil e Estruturado:
 A divisão do projeto em sprints com entregas incrementais foi essencial para manter o foco no progresso contínuo e no desenvolvimento de funcionalidades utilizáveis desde o início. Planejamentos claros no Sprint Planning facilitaram o alinhamento entre as partes interessadas e o time.
+
 Colaboração e Comunicação são Fundamentais:
-Ferramentas como Trello foram cruciais para garantir que todos estivessem informados e alinhados. A comunicação constante e a transparência no fluxo de trabalho evitaram atrasos e melhoraram a eficiência na resolução de problemas.
-Time é uma parte Integral do Processo:
-A presença de um grupo dedicado foi determinante para assegurar que cada incremento entregue estivesse funcional e alinhado aos critérios de aceitação. Os testes contínuos durante o desenvolvimento evitam retrabalhos e problemas críticos nas entregas finais.
+Ferramentas como Slack e Trello foram cruciais para garantir que todos estivessem informados e alinhados. A comunicação constante e a transparência no fluxo de trabalho evitaram atrasos e melhoraram a eficiência na resolução de problemas.
+
+Testes são Parte Integral do Processo:
+A presença de um QA dedicado foi determinante para assegurar que cada incremento entregue estivesse funcional e alinhado aos critérios de aceitação. Os testes contínuos durante o desenvolvimento evitaram retrabalhos e problemas críticos nas entregas finais.
+
 Flexibilidade para Adaptações:
 Durante o desenvolvimento, algumas funcionalidades exigiram ajustes para melhor atender às necessidades dos usuários. A aplicação de práticas ágeis mostrou-se eficiente para adaptar o escopo e priorizar entregas de maior valor, mantendo a qualidade do produto.
+
 Escolha Criteriosa de Ferramentas:
-O uso de plataformas integradas como GitHub para controle de código e gerenciamento de tarefas foi vital para o sucesso do projeto. A escolha de ferramentas acessíveis, colaborativas e eficientes permitiu a otimização do trabalho e reduziu custos operacionais.
+O uso de plataformas integradas como GitHub para controle de código e Trello para gerenciamento de tarefas foi vital para o sucesso do projeto. A escolha de ferramentas acessíveis, colaborativas e eficientes permitiu a otimização do trabalho e reduziu custos operacionais.
 
 > A identificação e documentação de lições aprendidas contribuem significativamente para a melhoria contínua e o aprimoramento das práticas organizacionais. 
 > Este processo envolve a reflexão sistemática sobre os sucessos e desafios enfrentados durante a execução do projeto, analisando o que funcionou bem e o que poderia ser melhorado. 
