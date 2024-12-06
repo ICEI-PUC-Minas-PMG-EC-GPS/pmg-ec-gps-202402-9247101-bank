@@ -6,6 +6,9 @@
 > As equipes devem realizar uma avaliação pós-projeto para identificar sucessos, desafios e áreas de melhoria. 
 > A fase de encerramento contribui para a transparência, satisfação do cliente e a consolidação das experiências adquiridas ao longo do ciclo de vida do projeto.
 
+# Vídeo apresentação
+(Gerenciando Suas Financas com o yBank) - https://youtu.be/W-CtVOJEKtg
+
 # Estrutura do Documento
 
 - [Fase de Encerramento](#encerramento)
